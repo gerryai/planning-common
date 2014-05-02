@@ -3,6 +3,8 @@
 A Java library to simplify the implementation of automated planning algorithms and associated parsers. It also includes
 a collection of planning domain and problem examples for testing purposes.
 
+[![Build Status](https://travis-ci.org/gerryai/planning-common.svg?branch=master)](https://travis-ci.org/gerryai/planning-common) [![Coverage Status](https://coveralls.io/repos/gerryai/planning-common/badge.png?branch=master)](https://coveralls.io/r/gerryai/planning-common?branch=master)
+
 ## Why?
 
 This library was created to reduce the effort involved in creating a new planner or parser implementation. By using
