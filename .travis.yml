@@ -1,2 +1,4 @@
 language: java
-script: mvn --show-version --errors clean verify jacoco:report coveralls:jacoco
+script: mvn --show-version --errors clean verify
+after_success:
+  - mvn clean cobertura:cobertura coveralls:cobertura
