@@ -35,9 +35,9 @@
     </licenses>
 
     <scm>
-        <connection>scm:git:git@github.com:gerryai/planning-core.git</connection>
-        <developerConnection>scm:git:git@github.com:gerryai/planning-core.git</developerConnection>
-        <url>https://github.com/gerryai/planning-core</url>
+        <connection>scm:git:git@github.com:gerryai/planning-common.git</connection>
+        <developerConnection>scm:git:git@github.com:gerryai/planning-common.git</developerConnection>
+        <url>https://github.com/gerryai/planning-common</url>
     </scm>
     <modules>
         <module>examples</module>
